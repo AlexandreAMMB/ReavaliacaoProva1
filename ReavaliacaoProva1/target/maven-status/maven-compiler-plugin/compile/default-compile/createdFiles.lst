@@ -1,0 +1,15 @@
+Model\Service\PedidoDescontoService.class
+Model\MetodoDesconto\NatalDesconto.class
+Model\Desconto.class
+Model\MetodoDesconto\LapisDesconto.class
+Model\Pedido.class
+Model\Produto.class
+Model\MetodoImposto\IMetodoImposto.class
+Model\MetodoImposto\ImpostoISS.class
+Model\Imposto.class
+Model\MetodoImposto\ImpostoICMS.class
+Model\MetodoDesconto\PapelariaDesconto.class
+Model\Service\PedidoImpostoService.class
+Principal.class
+Model\ItemPedido.class
+Model\MetodoDesconto\IMetodoDesconto.class
